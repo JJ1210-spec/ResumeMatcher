@@ -1,0 +1,6 @@
+streamlit
+pdfminer.six
+scikit-learn
+sentence-transformers
+google-generativeai
+python-dotenv
