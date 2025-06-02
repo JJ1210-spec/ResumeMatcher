@@ -23,6 +23,10 @@ wheels/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
+.env
+.streamlit/
+.vscode/
+*.log
 *.egg
 MANIFEST
 
